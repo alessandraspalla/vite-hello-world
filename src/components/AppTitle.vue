@@ -1,15 +1,16 @@
 <script>
 export default {
-  name: "HelloWorld"
+  name: "AppTitle"
 }
 </script>
 
 <template>
-  <h1>Hey questa è la mia prima app con Vite</h1>
+  <h1>La mia prima app con Vite</h1>
 </template>
 
 <style scoped>
 h1 {
   color: orangered;
+  margin-bottom: 20px;
 }
 </style>
